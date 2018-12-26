@@ -1,0 +1,6 @@
+[submodule "gol-brain-eater"]
+	path = gol-brain-eater
+	url = ./gol-brain-eater
+[submodule "gol-object"]
+	path = gol-object
+	url = ./gol-object
